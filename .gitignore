@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.hex
+*.map
+uart/*.o
+adc/*.o
+ffft/*.o
+ffft/*.lst
