@@ -5,3 +5,5 @@ This is a simple sound frequency logger which records sounds from the surroundin
 
 Works together with the [Frequency Logger Python GUI](https://github.com/pheenek/mosquito-frequency) to log data into computer storage.
 
+The FFT code used is from a fixed-point FFT library, courtesy of [ELM by ChaN](http://elm-chan.org/)
+
